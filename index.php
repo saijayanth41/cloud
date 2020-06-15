@@ -1,4 +1,5 @@
-<<?php
+<?php
 
-<h1>Welcome to LW</h1>
+<h1>Welcome to HYBRID MULTI CLOUD</h1>
+  <img src="hybridcloud.png" >
 ?>
